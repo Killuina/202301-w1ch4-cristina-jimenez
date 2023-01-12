@@ -1,0 +1,19 @@
+@import url(/node_modules/@fontsource/nunito/400.css);
+@import url(/node_modules/@fontsource/nunito/800.css);
+
+:root {
+  --color-main: #ed6436;
+  --background-color-main: #ffff;
+
+  --typography-main: "Nunito", sans-serif;
+  --typography-weight: 800;
+  --text-size: 0.938rem;
+
+  --block-padding-horizontal: 6.25rem;
+}
+
+*,
+::before,
+::after {
+  box-sizing: border-box;
+}
